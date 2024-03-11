@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=”100%” src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaaWu&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdaaWu&show_icons=true&count_private=true&theme=dark" />
+
+<img width=”100%” alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaaWu&theme=vue-dark&line_height=22&layout=compact&hide=less" />
