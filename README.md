@@ -1,6 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
 
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Hello%20I'm%20Sunny.Cat&fontSize=90" style="width: 100%;" alt="header">
+</div>
 
+<h1 align="center">您好 👋</h1>
 
 <!--
 **AdaaWu/AdaaWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
