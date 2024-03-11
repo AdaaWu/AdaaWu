@@ -3,22 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Hello%20I'm%20Sunny.Cat&fontSize=90" style="width: 100%;" alt="header">
 </div>
 
-<h1 align="center">您好 👋</h1>
+<h1 align="center">您好 👋✨ </h1>
 
-<!--
-**AdaaWu/AdaaWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I I'm currently working as a software engineer.
+- 🌱  I'm currently learning new technologies and development practices.
+- 👯  I'm looking to collaborate on exciting projects.
+- 🤔 I'm open to suggestions on staying motivated and enhancing productivity.
+- 💬 Ask me about programming, book recommendations, fitness tips, or parenting advice!
+- 📫 How to reach me: Feel free to reach out by opening an issue on this repository. I'll make sure to respond promptly!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love spending time with my family!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
 
