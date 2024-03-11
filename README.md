@@ -6,7 +6,7 @@
 <h1 align="center">您好 👋✨ </h1>
 
 
-- 🔭 I I'm currently working as a software engineer.
+- 🔭 I'm currently working as a software engineer.
 - 🌱  I'm currently learning new technologies and development practices.
 - 👯  I'm looking to collaborate on exciting projects.
 - 🤔 I'm open to suggestions on staying motivated and enhancing productivity.
