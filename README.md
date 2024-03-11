@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 😃 My Four Maxims
+
+> I maintain both physical activity and meditation.
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=健康的身心靈)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+## 💻 My Tech Stack:
+
+[![php,laravel,python,html,css,jquery,bootstrap,tailwind,vue,vuetify,pinia,Next.js,Node.js,JavaScript,TypeScript,go,rust](https://skillicons.dev/icons?i=php,laravel,python,html,css,vuetify,jquery,bootstrap,tailwind,vue,pinia,next,js,ts,nodejs,docker,dotnet,go,rust)](https://skillicons.dev)
+
+
 <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdaaWu&show_icons=true&count_private=true&theme=dark" />
 
 <img width=”100%” alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaaWu&theme=vue-dark&line_height=22&layout=compact&hide=less" />
