@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 > I love coding❤️
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin&quote=熱愛工作熱愛生活)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=熱愛工作熱愛生活)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
 
 [![php,laravel,python,html,css,jquery,bootstrap,tailwind,vue,vuetify,pinia,Next.js,Node.js,JavaScript,TypeScript,go,rust](https://skillicons.dev/icons?i=php,laravel,python,html,css,vuetify,jquery,bootstrap,tailwind,vue,pinia,next,js,ts,nodejs,docker,dotnet,go,rust)](https://skillicons.dev)
 
 
-<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdaaWu&show_icons=true&count_private=true&theme=dark" />
+<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdaaWu&show_icons=true&count_private=true&theme=dracula" />
 
-<img width=”100%” alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaaWu&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<img width=”100%” alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaaWu&theme=dracula&line_height=22&layout=compact&hide=less" />
