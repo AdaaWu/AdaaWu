@@ -50,6 +50,12 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
     <img width=”100%” src="https://github-readme-streak-stats.herokuapp.com?user=adaawu&theme=dracula&locale=zh_Hant" alt="GitHub Streak">
   </a>
+
+   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+    <img width=”100%” src="https://github-profile-trophy.vercel.app/?username=adaawu&column=8" alt="3D GitHub">
+  </a>
 </p>
+
+
 
 ![looked](https://komarev.com/ghpvc/?username=adaawu&color=blueviolet)
