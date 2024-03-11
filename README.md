@@ -33,7 +33,7 @@
 
 <h2 align="center"> 💻 My Tech Stack<h2>
 
-[![php,laravel,python,html,css,jquery,bootstrap,tailwind,vue,vuetify,pinia,Next.js,Node.js,JavaScript,TypeScript,go,rust](https://skillicons.dev/icons?i=php,laravel,python,html,css,vuetify,jquery,bootstrap,tailwind,vue,pinia,next,js,ts,nodejs,docker,dotnet,go,rust)](https://skillicons.dev)
+[![php,laravel,python,html,css,jquery,bootstrap,tailwind,vue,vuetify,pinia,Nuxt.js,Node.js,JavaScript,TypeScript,go,rust](https://skillicons.dev/icons?i=php,laravel,python,html,css,vuetify,jquery,bootstrap,tailwind,vue,pinia,nuxt,js,ts,nodejs,docker,dotnet,go,rust)](https://skillicons.dev)
 
 <p align="center">
 <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdaaWu&show_icons=true&count_private=true&theme=dracula" />
