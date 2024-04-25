@@ -14,7 +14,7 @@
 - 📫 How to reach me: Feel free to reach out by opening an issue on this repository. I'll make sure to respond promptly!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love spending time with my family!
-
+- 📫 How to reach me: [Email](mailto:idonga500@gmail.com)
 
 <div align="center">
 
