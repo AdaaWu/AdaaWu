@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width="100%" src="https://streak-stats.demolab.com?user=adaawu&theme=dracula&locale=zh_Hant" alt="GitHub Streak">
+    <img width="100%" src="https://streak-stats.demolab.com?user=adaawu&theme=dracula&locale=zh_Hant](https://streak-stats.demolab.com/?user=adaawu&theme=dracula&locale=zh_Hant" alt="GitHub Streak">
   </a>
 </p>
 
