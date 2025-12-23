@@ -41,12 +41,10 @@
 <img height=175 width=”100%” alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaaWu&theme=dracula&line_height=22&layout=compact&hide=less" />
 </p>
 
-
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width=”100%” src="https://github-readme-streak-stats.herokuapp.com?user=adaawu&theme=dracula&locale=zh_Hant" alt="GitHub Streak">
+    <img width="100%" src="https://streak-stats.demolab.com?user=adaawu&theme=dracula&locale=zh_Hant" alt="GitHub Streak">
   </a>
-
 </p>
 
 
