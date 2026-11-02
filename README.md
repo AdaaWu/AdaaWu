@@ -31,9 +31,19 @@
 </div>
 
 
-<h2 align="center"> 💻 My Tech Stack</h2>
+<h2 align="center">💻 My Tech Stack</h2>
 
-[![php,laravel,python,html,css,jquery,bootstrap,tailwind,vue,vuetify,pinia,Nuxt.js,Node.js,JavaScript,TypeScript,go,rust](https://skillicons.dev/icons?i=php,laravel,python,html,css,vuetify,jquery,bootstrap,tailwind,vue,pinia,nuxt,js,ts,nodejs,docker,dotnet,go,rust)](https://skillicons.dev)
+<h3 align="center">🎨 Frontend</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,pinia,vuetify,react,tailwind,bootstrap,jquery" alt="Frontend" /></p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=php,laravel,go,rust,python,nodejs,dotnet" alt="Backend" /></p>
+
+<h3 align="center">🗄️ Database</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database" /></p>
+
+<h3 align="center">🚀 DevOps & Cloud</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,aws,gcp" alt="DevOps" /></p>
 
 <h2 align="center">🎤 Talks</h2>
 
