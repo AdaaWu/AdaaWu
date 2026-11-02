@@ -6,12 +6,12 @@
 <h1 align="center">您好 👋✨ </h1>
 
 
-- 🔭 I'm currently working as a software engineer.
-- 🌱  I'm currently learning new technologies and development practices.
-- 👯  I'm looking to collaborate on exciting projects.
-- 🤔 I'm open to suggestions on staying motivated and enhancing productivity.
-- 💬 Ask me about programming, book recommendations, fitness tips, or parenting advice!
-- 📫 How to reach me: [Email](mailto:idonga500@gmail.com) or Feel free to reach out by opening an issue on this repository. I'll make sure to respond promptly!
+- 🔭 Backend engineer working with PHP / Laravel, Go and Rust
+- 🦀 Building [sunny-lang](https://github.com/AdaaWu/sunny-lang), my own programming language in Rust
+- 🌱 Contributing to [g0v/civic-talk-hono](https://github.com/g0v/civic-talk-hono), using AI to lower the barrier to public deliberation
+- 🎮 Side projects: a sea-slug card battle game (Vue 3 + three.js) and Rust Quest (Vue 3 + Axum)
+- 💬 Ask me about clean code, backend architecture, fitness or parenting
+- 📫 Reach me by opening an issue on this repo
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love spending time with my family!
 
