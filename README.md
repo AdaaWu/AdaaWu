@@ -9,7 +9,7 @@
 - 🔭 Backend engineer working with PHP / Laravel, Node.js, Go and Rust
 - 🦀 Building [sunny-lang](https://github.com/AdaaWu/sunny-lang), my own programming language in Rust
 - 🌱 Contributing to [g0v/civic-talk-hono](https://github.com/g0v/civic-talk-hono), using AI to lower the barrier to public deliberation
-- 🎮 Side projects: a sea-slug card battle game (Vue 3 + three.js) and Rust Quest (Vue 3 + Axum)
+- 🎮 Side projects: a sea-slug card battle game (🚧 WIP, Vue 3 + three.js) and Rust Quest (Vue 3 + Axum)
 - 💬 Ask me about clean code, backend architecture, fitness or parenting
 - 📫 Reach me by opening an issue on this repo
 - 😄 Pronouns: She/Her
