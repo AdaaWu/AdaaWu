@@ -6,7 +6,7 @@
 <h1 align="center">您好 👋✨ </h1>
 
 
-- 🔭 Backend engineer working with PHP / Laravel, Go and Rust
+- 🔭 Backend engineer working with PHP / Laravel, Node.js, Go and Rust
 - 🦀 Building [sunny-lang](https://github.com/AdaaWu/sunny-lang), my own programming language in Rust
 - 🌱 Contributing to [g0v/civic-talk-hono](https://github.com/g0v/civic-talk-hono), using AI to lower the barrier to public deliberation
 - 🎮 Side projects: a sea-slug card battle game (Vue 3 + three.js) and Rust Quest (Vue 3 + Axum)
